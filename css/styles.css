@@ -1,62 +1,19 @@
-body {
-  color: white;
-  /*background-image: url(http://unrealitymag.com/wp-content/uploads/2009/02/kaylee-frye.jpg);*/
-  background-image: url(http://vignette4.wikia.nocookie.net/firefly/images/5/55/Kaylee.jpg);
-  background-repeat: no-repeat;
-  background-position: right top;
-  background-attachment: scroll;
-  background-size: 100%;
-  background-color: black;
-}
 
-.container{
-  margin-top: 80px;
-  margin-bottom: -90px;
-}
 
-.container h1 {
-  color: white;
+h1 {
+  
   font-family: 'Ruthie', Arial, serif;
   padding-left: 40px;
   font-size: 5em;
 }
 
-.container h2,
-h3 {
-  color: white;
-  font-family: 'Ruthie', Arial, serif;
+h2
+ {
+
   padding-left: 40px;
   font-size: 3em;
 }
-
-.container .row {
-  margin-left: 20px;
-  margin-right: 20px;
-}
-
-p {
-  color: white;
-  font-size: 1.3em;
-  line-height: 1.4em;
-}
-
-#myCarousel {
-  padding-top: 80px;
-}
-
-.carousel-indicators {
-  margin-bottom: -50px;
-}
-
-.carousel-inner {
-  margin: 60px;
-  padding: 5px;
-}
-
-.carousel-inner .item h3 {
-  color: white;
-  font-family: 'Sue Ellen Francisco', cursive;
-  font-size: 3em;
-  margin-left: 150px;
-  margin-right: 150px;
+.row{
+ margin-left: 40px;
+ margin-right: 40px;
 }
